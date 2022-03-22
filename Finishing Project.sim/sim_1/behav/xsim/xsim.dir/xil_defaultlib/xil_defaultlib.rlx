@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/sinan/Finishing Project/Finishing Project.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sim_1/new/cpu.sv,1625606322,systemVerilog,,,,cpu,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/alu.sv,1625489765,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/bit_cpu.sv,,alu,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/bit_cpu.sv,1625585029,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/control.sv,,bit_cpu,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/control.sv,1625490178,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/datamem.sv,,control,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/datamem.sv,1625490901,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/decoder.sv,,datamem,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/decoder.sv,1625653888,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/imem.sv,,decoder,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/imem.sv,1625652166,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/mux2_3bit.sv,,imem,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/mux2_3bit.sv,1625651751,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/mux2_8bit.sv,,mux2_3bit,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/mux2_8bit.sv,1625651787,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/regfile.sv,,mux2_8bit,,uvm,,,,,,
+C:/Users/sinan/Finishing Project/Finishing Project.srcs/sources_1/new/regfile.sv,1625651844,systemVerilog,,C:/Users/sinan/Finishing Project/Finishing Project.srcs/sim_1/new/cpu.sv,,regfile,,uvm,,,,,,
